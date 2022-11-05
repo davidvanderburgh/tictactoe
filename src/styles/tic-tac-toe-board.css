@@ -1,0 +1,11 @@
+.grid {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  width: 510px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
